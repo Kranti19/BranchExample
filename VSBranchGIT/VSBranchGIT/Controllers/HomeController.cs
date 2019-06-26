@@ -11,6 +11,7 @@ namespace VSBranchGIT.Controllers
         public ActionResult Index()
         {
             ViewBag.name = "Kranti";
+            
             return View();
         }
 
